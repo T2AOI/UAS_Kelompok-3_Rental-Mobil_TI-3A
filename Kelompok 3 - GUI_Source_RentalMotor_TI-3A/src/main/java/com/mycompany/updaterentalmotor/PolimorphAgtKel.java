@@ -37,7 +37,7 @@ public class PolimorphAgtKel extends GetterNSetter implements AbstractRentalMoto
         tantowi.setBounds(30, 510, 500, 30);
         getForm().add(tantowi);
         
-        JLabel bintang = new JLabel("0035   NUGROHO GUSTI BINTANG FAJAR : 21104410035");
+        JLabel bintang = new JLabel("0035   NUGROHO GUSTI BINTANG FAJAR");
         bintang.setBounds(30, 540, 500, 30);
         getForm().add(bintang);
         
